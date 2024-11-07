@@ -1,4 +1,0 @@
-3
-books1995.csv
-books1996.csv
-books1997.csv

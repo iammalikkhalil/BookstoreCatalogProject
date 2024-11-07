@@ -1,30 +1,30 @@
-Semantic error in file: Cartoons_Comics_Books.csv
+semantic error in file: Cartoons_Comics_Books.csv
 ====================
-Error: Invalid ISBN-13: 9781405206318
+Error: Invalid ISBN-13 in record.
 Record: "The Adventures of Tintin",Hergé,10.99,9781405206318,CCB,1995
 
-Semantic error in file: Cartoons_Comics_Books.csv
+semantic error in file: Cartoons_Comics_Books.csv
 ====================
-Error: Invalid ISBN-13: 9781401207524
+Error: Invalid ISBN-13 in record.
 Record: "Comic Book Legends",Stan Lee,11.95,9781401207524,CCB,1997
 
-Semantic error in file: Movies_TV.csv
+semantic error in file: Movies_TV.csv
 ====================
-Error: Invalid ISBN-13: 9781401208415
+Error: Invalid ISBN-13 in record.
 Record: "Hollywood Golden Age",Sarah Connor,9.99,9781401208415,MTV,1996
 
-Semantic error in file: Music_Radio_Books.csv
+semantic error in file: Music_Radio_Books.csv
 ====================
-Error: Invalid ISBN-13: 9780789324509
+Error: Invalid ISBN-13 in record.
 Record: "Classic Rock Albums",Jane Doe,12.75,9780789324509,MRB,1995
 
-Semantic error in file: Old_Time_Radio.csv
+semantic error in file: Old_Time_Radio.csv
 ====================
-Error: Invalid ISBN-13: 9780307263536
+Error: Invalid ISBN-13 in record.
 Record: "Famous Radio Shows",Walter Cronkite,8.25,9780307263536,OTR,1997
 
-Semantic error in file: Sports_Sports_Memorabilia.csv
+semantic error in file: Sports_Sports_Memorabilia.csv
 ====================
-Error: Invalid ISBN-13: 9780756673458
+Error: Invalid ISBN-13 in record.
 Record: "Old Time Sports",David Brown,13.99,9780756673458,SSM,1996
 
